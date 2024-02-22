@@ -1,0 +1,26 @@
+*{
+    margin: 30px;
+}
+body{
+    font-family:Tahoma;
+}
+h1
+{
+    color: hotpink;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+p{
+color: darkblue;
+text-align: justify;
+
+}
+
+img{
+width: 30%;
+
+
+}
